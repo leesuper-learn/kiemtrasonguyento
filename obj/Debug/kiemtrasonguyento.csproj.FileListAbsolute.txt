@@ -1,0 +1,7 @@
+E:\C#\online\W03\caulenhlap\kiemtrasonguyento\kiemtrasonguyento\bin\Debug\kiemtrasonguyento.exe.config
+E:\C#\online\W03\caulenhlap\kiemtrasonguyento\kiemtrasonguyento\bin\Debug\kiemtrasonguyento.exe
+E:\C#\online\W03\caulenhlap\kiemtrasonguyento\kiemtrasonguyento\bin\Debug\kiemtrasonguyento.pdb
+E:\C#\online\W03\caulenhlap\kiemtrasonguyento\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.csproj.AssemblyReference.cache
+E:\C#\online\W03\caulenhlap\kiemtrasonguyento\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.csproj.CoreCompileInputs.cache
+E:\C#\online\W03\caulenhlap\kiemtrasonguyento\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.exe
+E:\C#\online\W03\caulenhlap\kiemtrasonguyento\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.pdb
